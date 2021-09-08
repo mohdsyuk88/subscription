@@ -1,2 +1,2 @@
 # subscription
-test
+sample code input
